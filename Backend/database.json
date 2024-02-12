@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "empName": "Sabari D",
+      "empSalary": "45000",
+      "empCompany": "Apple",
+      "id": "8f89"
+    },
+    {
+      "empName": "Chan",
+      "empSalary": "7500",
+      "empCompany": "MicroSoft",
+      "id": "3a4b"
+    },
+    {
+      "id": "6522",
+      "empName": "Allen",
+      "empSalary": "6500",
+      "empCompany": "Google"
+    }
+  ]
+}
